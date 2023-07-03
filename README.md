@@ -91,6 +91,8 @@ pip install -r requirements.txt
 
 # fix llama install errror
 sudo apt-get install build-essential
+
+pip install tqdm
 ```
 
 #### llama.cpp with GPU acceleration
