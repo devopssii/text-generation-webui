@@ -88,6 +88,9 @@ The up-to-date commands can be found here: https://pytorch.org/get-started/local
 git clone https://github.com/oobabooga/text-generation-webui
 cd text-generation-webui
 pip install -r requirements.txt
+
+# fix llama install errror
+sudo apt-get install build-essential
 ```
 
 #### llama.cpp with GPU acceleration
